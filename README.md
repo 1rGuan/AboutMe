@@ -3,15 +3,15 @@ My personal repository.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 June 2023 - To: 06 July 2023
+From: 07 June 2023 - To: 07 July 2023
 
-Total Time: 145 hrs 29 mins
+Total Time: 151 hrs 57 mins
 
-Python       65 hrs 48 mins  ███████████▒░░░░░░░░░░░░░   45.23 %
-Other        52 hrs 32 mins  █████████░░░░░░░░░░░░░░░░   36.11 %
-Blender      23 hrs 11 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.94 %
-Bash         3 hrs 51 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
-JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Python       70 hrs 35 mins  ███████████▓░░░░░░░░░░░░░   46.46 %
+Other        54 hrs 2 mins   █████████░░░░░░░░░░░░░░░░   35.57 %
+Blender      23 hrs 11 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   15.27 %
+Bash         4 hrs 1 min     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
