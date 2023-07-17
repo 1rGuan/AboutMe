@@ -3,7 +3,7 @@ My personal repository.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 June 2023 - To: 15 July 2023
+From: 07 June 2023 - To: 16 July 2023
 
 Total Time: 194 hrs 6 mins
 
