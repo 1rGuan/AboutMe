@@ -1,5 +1,4 @@
 # AboutMe
-My personal repository.
 <!--START_SECTION:waka-->
 
 ```txt
