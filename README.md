@@ -2,17 +2,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 June 2023 - To: 21 September 2023
+From: 07 June 2023 - To: 22 September 2023
 
-Total Time: 593 hrs 32 mins
+Total Time: 599 hrs 29 mins
 
-Python           281 hrs         ████████████░░░░░░░░░░░░░   47.34 %
-Other            214 hrs 15 mins █████████░░░░░░░░░░░░░░░░   36.10 %
-Blender          74 hrs 49 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.61 %
-Markdown         9 hrs 46 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
-Bash             9 hrs 20 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+Python           283 hrs 1 min   ███████████▓░░░░░░░░░░░░░   47.21 %
+Other            218 hrs 10 mins █████████░░░░░░░░░░░░░░░░   36.39 %
+Blender          74 hrs 49 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.48 %
+Markdown         9 hrs 46 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+Bash             9 hrs 20 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
 Diff             1 hr 19 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-MiniScript       51 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+MiniScript       51 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 Objective-C      50 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 Text             18 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 Assembly         14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
