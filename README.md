@@ -2,20 +2,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 June 2023 - To: 03 October 2023
+From: 07 June 2023 - To: 04 October 2023
 
-Total Time: 634 hrs 58 mins
+Total Time: 638 hrs 10 mins
 
-Python           286 hrs 39 mins ███████████▒░░░░░░░░░░░░░   45.15 %
-Other            242 hrs 53 mins █████████▓░░░░░░░░░░░░░░░   38.25 %
-Blender          74 hrs 49 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
-Markdown         11 hrs 52 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-Bash             11 hrs 18 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+Python           287 hrs 47 mins ███████████▒░░░░░░░░░░░░░   45.10 %
+Other            244 hrs 33 mins █████████▓░░░░░░░░░░░░░░░   38.32 %
+Blender          74 hrs 49 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.73 %
+Markdown         11 hrs 52 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+Bash             11 hrs 31 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
 Diff             1 hr 19 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 YAML             1 hr 17 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 MiniScript       51 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 Objective-C      50 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-JSON             44 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+C                46 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
