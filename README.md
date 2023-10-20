@@ -2,15 +2,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 June 2023 - To: 18 October 2023
+From: 07 June 2023 - To: 19 October 2023
 
-Total Time: 693 hrs 54 mins
+Total Time: 697 hrs 15 mins
 
-Python           306 hrs 55 mins ███████████░░░░░░░░░░░░░░   44.23 %
-Other            278 hrs 28 mins ██████████░░░░░░░░░░░░░░░   40.13 %
-Blender          74 hrs 49 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 %
-Markdown         11 hrs 59 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
-Bash             11 hrs 31 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+Python           306 hrs 55 mins ███████████░░░░░░░░░░░░░░   44.02 %
+Other            281 hrs 46 mins ██████████░░░░░░░░░░░░░░░   40.41 %
+Blender          74 hrs 49 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 %
+Markdown         12 hrs 2 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+Bash             11 hrs 31 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
 GDScript3        1 hr 24 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 Diff             1 hr 19 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 YAML             1 hr 17 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
