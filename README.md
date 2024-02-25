@@ -2,20 +2,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 June 2023 - To: 22 February 2024
+From: 07 June 2023 - To: 23 February 2024
 
-Total Time: 1,144 hrs 31 mins
+Total Time: 1,147 hrs 42 mins
 
-Other            596 hrs 54 mins █████████████░░░░░░░░░░░░   52.15 %
-Python           391 hrs 38 mins ████████▓░░░░░░░░░░░░░░░░   34.22 %
-Blender          81 hrs 53 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
-Bash             21 hrs 58 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
-Markdown         15 hrs 38 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+Other            599 hrs 29 mins █████████████░░░░░░░░░░░░   52.23 %
+Python           391 hrs 59 mins ████████▓░░░░░░░░░░░░░░░░   34.15 %
+Blender          81 hrs 53 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
+Bash             22 hrs 5 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+Markdown         15 hrs 38 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
 Text             10 hrs 5 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 YAML             7 hrs 26 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Batchfile        3 hrs 21 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 GDScript3        3 hrs 20 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-Batchfile        3 hrs 13 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-C++              2 hrs 41 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+C++              2 hrs 41 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
