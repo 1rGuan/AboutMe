@@ -2,12 +2,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 June 2023 - To: 17 April 2024
+From: 07 June 2023 - To: 18 April 2024
 
-Total Time: 1,373 hrs 30 mins
+Total Time: 1,374 hrs 10 mins
 
-Other            722 hrs 27 mins █████████████░░░░░░░░░░░░   52.60 %
-Python           476 hrs 51 mins ████████▓░░░░░░░░░░░░░░░░   34.72 %
+Other            723 hrs 7 mins  █████████████░░░░░░░░░░░░   52.62 %
+Python           476 hrs 51 mins ████████▓░░░░░░░░░░░░░░░░   34.70 %
 Blender          81 hrs 53 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
 Bash             28 hrs 23 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
 Markdown         19 hrs 14 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
