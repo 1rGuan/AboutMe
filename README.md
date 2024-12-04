@@ -2,15 +2,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 June 2023 - To: 01 December 2024
+From: 07 June 2023 - To: 02 December 2024
 
-Total Time: 2,115 hrs 52 mins
+Total Time: 2,119 hrs 2 mins
 
-Other            1,233 hrs       ██████████████▓░░░░░░░░░░   58.27 %
-Python           640 hrs 6 mins  ███████▓░░░░░░░░░░░░░░░░░   30.25 %
-Blender          82 hrs 16 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
-Bash             58 hrs 14 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
-C++              28 hrs 41 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+Other            1,235 hrs 41 mins██████████████▓░░░░░░░░░░   58.31 %
+Python           640 hrs 23 mins ███████▓░░░░░░░░░░░░░░░░░   30.22 %
+Blender          82 hrs 16 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
+Bash             58 hrs 16 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+C++              28 hrs 45 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
 Markdown         19 hrs 54 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
 YAML             17 hrs 9 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
 Text             10 hrs 52 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
