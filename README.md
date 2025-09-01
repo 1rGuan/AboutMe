@@ -2,12 +2,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 June 2023 - To: 29 August 2025
+From: 07 June 2023 - To: 30 August 2025
 
-Total Time: 3,238 hrs 35 mins
+Total Time: 3,240 hrs 14 mins
 
-Other                2,064 hrs 2 mins████████████████░░░░░░░░░   63.73 %
-Python               820 hrs 8 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.32 %
+Other                2,065 hrs 41 mins████████████████░░░░░░░░░   63.75 %
+Python               820 hrs 8 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.31 %
 Bash                 86 hrs 48 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
 C++                  85 hrs 39 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
 Blender              82 hrs 16 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
